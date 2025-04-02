@@ -1,4 +1,4 @@
-# RaspberryCast 3.0
+# RaspberryCast 3.1
 > Transform your Raspberry Pi into a streaming device.
 Cast videos from mobile devices or computers to your TV.
 
